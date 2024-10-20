@@ -1,2 +1,3 @@
-# .github
-Welcome to Project Odyssey
+# Project Odyssey 🚀
+
+Learning an building cool shit 💻
