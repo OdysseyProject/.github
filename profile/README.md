@@ -1,3 +1,3 @@
-# Project Odyssey 🧭
+# Geekly 🧭
 
 Learning an building cool shit 💻
